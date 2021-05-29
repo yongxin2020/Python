@@ -1,8 +1,10 @@
 Personal learning path
 
 
-# [Python Crash Course, Second Edition](http://www.nostarch.com/pythoncrashcourse/)
+# Python Crash Course
 A Hands-On, Project-Based Introduction to Programming by Eric Matthes.
+
+[Python Crash Course, Second Edition](http://www.nostarch.com/pythoncrashcourse/)
 
 ## alien_invasion 
 chapter_12
